@@ -1,3 +1,7 @@
 # GitHub
 
-Arquivo da aula de Git e GitHub para iniciantessdsdsdsfddfdfd.
+Arquivo da aula de Git e GitHub para iniciantessdsdsdsfddfdf
+
+Alunos presentes:
+Matheus
+
